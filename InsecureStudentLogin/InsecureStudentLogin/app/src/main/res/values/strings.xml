@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InsecureStudentLogin</string>
+    <string name="button_text">Log In</string>
+</resources>
